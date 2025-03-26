@@ -1,35 +1,53 @@
 # Screen Documentation – Student Scholarship System
 
 ## Home Page
-- Introduces the platform with a clear, welcoming message.
-- Includes a call-to-action button: "Find Your Scholarship".
+Introduces the system with a clear purpose and CTA.
+![Home Page](./Homepage.png)
 
 ## Login Screen
-- Fields: Email, Password
-- Includes a login button and links to reset password or sign up.
+Simple login form with email and password fields.
+![Login](./Login.png)
 
 ## Sign-Up Screen
-- Fields: Full Name, Email, Password, Confirm Password
-- Includes a "Create Account" button.
+Form for new users to create an account.
+![Sign Up](./Signup.png)
 
-## Criteria Form Screen
-- Allows users to enter personal and academic details:
-  - Age, Gender, Institution, Field of Study, Academic Year, Socioeconomic Status, Background Info
-- Includes a button: "Find Scholarships"
+## Marketing/Intro Screen
+A short explanation and invitation to start using the system.
+![Ad Screen](./Ad_Screen.png)
 
-## Scholarships List
-- Displays a list of matched scholarships with brief descriptions.
-- Each item includes a "View" button.
+## Criteria Form
+Form for users to enter academic and personal details.
+![Criteria](./Criteria.png)
 
-## User Profile
-- Displays user's personal info and saved criteria.
-- Includes an "Edit Profile" button.
+## Scholarships Results
+List of matched scholarships with filters and search.
+![Scholarships](./Scholarships_Search.png)
+
+## Profile Page
+Displays user information and saved preferences.
+![Profile](./Profile.png)
+
+## Help & Settings
+Contains FAQ, contact, and personal settings.
+![Help & Settings](./Setteings and Help.png)
+
+## Admin – Scholarship Management
+Admin screen with list of scholarships, and edit/delete options.
+![Admin Management](./Admin's_Screen.png)
 
 ## Admin Dashboard
-- Shows KPIs: Match Rate, Active Users, Scholarship Searches, etc.
-- Includes charts and data tables.
+Displays key performance indicators and charts.
+![Admin Dashboard](./Admin_Dashboard.png)
 
-## Admin: Scholarship Management
-- Table of all scholarships with columns: Name, Type, Deadline, etc.
-- Includes search bar, filters, and buttons for Edit/Delete/Add Scholarship.
+## Navigation Flow (Detailed)
+A full user flow diagram showing all paths.
+![Navigation Flow](./Flowchart.png)
 
+## Navigation Flow (Simplified)
+Basic overview of main user journey.
+![Navigation Flow Simplified](./Flowchart_Simplefied.png)
+
+## Forms Overview
+A visual table of all forms and fields in the system.
+![Forms](./Forms.png)
